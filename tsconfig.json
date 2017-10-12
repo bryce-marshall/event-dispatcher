@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "emitDecoratorMetadata": true,
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceMap": false,
+        "outDir": "./",
+        "declaration": true,
+        "pretty": true
+    },
+    "include": [
+        "./event-dispatcher.nodejs/package-src"
+    ],
+    "exclude": [
+        ".vscode",
+        "node_modules",
+        "test-build",
+        "test*"
+    ]
+}
