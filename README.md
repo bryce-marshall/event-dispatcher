@@ -1,4 +1,4 @@
-# @brycemarshall/exception
+# @brycemarshall/event-dispatcher
 
 A library for dispatching events to subscriber clients.
 

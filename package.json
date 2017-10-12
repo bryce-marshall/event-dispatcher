@@ -1,6 +1,6 @@
 {
   "name": "@brycemarshall/event-dispatcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library for dispatching events to subscriber clients.",
   "repository": {
     "type": "git",
