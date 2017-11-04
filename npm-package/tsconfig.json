@@ -10,7 +10,7 @@
         "pretty": true
     },
     "include": [
-        "./event-dispatcher.nodejs/package-src"
+        "../event-dispatcher.nodejs/package-src"
     ],
     "exclude": [
         ".vscode",
